@@ -2,7 +2,9 @@
 
 ## Server
 Spritzee Nodejs Server: https://spritzee.janiru.dev/
-
-/{slug}
-/r/{slug}
  
+| Endpoint     | Description   |
+|--------------|---------------|
+| /            | Welcome Page  |
+| /{slug}      | Slug details  |
+| /r/{slug}    | Slug redirect |
